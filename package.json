@@ -1,0 +1,29 @@
+{
+  "name": "end-to-end-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikirandotcom/end-to-end-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikirandotcom/end-to-end-project/issues"
+  },
+  "homepage": "https://github.com/saikirandotcom/end-to-end-project#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "init": "^0.1.2",
+    "jquery": "^3.6.0",
+    "jquery.cookie": "^1.4.1",
+    "mongodb": "^4.8.1"
+  }
+}
